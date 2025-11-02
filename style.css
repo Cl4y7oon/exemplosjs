@@ -1,0 +1,6 @@
+body { background: #fff; }
+.container-narrow { max-width: 980px; }
+.card-receita img { object-fit: cover; height: 160px; }
+.card-receita { border: 3px solid #f0b20b; }
+.card-receita .card-title { color: #0a58ca; }
+ul { margin-bottom: 0.5rem; }
